@@ -18,7 +18,7 @@
 
 Explore the interactive 3-page dashboard with filters, KPIs, movie analysis, ratings, genres, actors, directors, and movie details.
 
-# 📌 Project Overview
+
 
 ## ⭐ Project Highlights
 
