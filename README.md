@@ -20,14 +20,20 @@ Explore the interactive 3-page dashboard with filters, KPIs, movie analysis, rat
 
 # 📌 Project Overview
 
-This project is an end-to-end **Data Analytics and Business Intelligence project** focused on analyzing IMDb Top Rated Indian Movies.
+## ⭐ Project Highlights
 
-The project starts with collecting movie information through automated web scraping using **Python, Selenium and BeautifulSoup**.
-
-The scraped data is then cleaned, transformed and analyzed using **Pandas and NumPy**, followed by Exploratory Data Analysis (EDA) using **Matplotlib and Seaborn**.
-
-The final cleaned dataset is imported into **Microsoft Power BI**, where an interactive **3-page professional dashboard** is created to analyze movie ratings, genres, directors, actors, runtime, audience votes and release trends.
-
+- End-to-end IMDb data analytics project
+- Automated web scraping using Selenium
+- HTML parsing using BeautifulSoup
+- Data cleaning and transformation using Pandas
+- Exploratory Data Analysis using Python
+- Data visualization using Matplotlib and Seaborn
+- Interactive 3-page Power BI dashboard
+- KPI cards and interactive filters
+- Genre, rating, actor and director analysis
+- Runtime vs IMDb rating analysis
+- Movie-level detail exploration
+- Power BI data modeling and relationships
 The project demonstrates the complete data analytics workflow:
 
 ```text
