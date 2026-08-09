@@ -12,6 +12,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
 
 ---
+## 🚀 Live Power BI Dashboard
+
+🔗 **[View Interactive Power BI Dashboard](https://app.fabric.microsoft.com/links/jsukDHSZWi?ctid=1a8a49ea-0b6a-4ff1-8172-9092bf7da7f9&pbi_source=linkShare)**
+
+Explore the interactive 3-page dashboard with filters, KPIs, movie analysis, ratings, genres, actors, directors, and movie details.
 
 # 📌 Project Overview
 
