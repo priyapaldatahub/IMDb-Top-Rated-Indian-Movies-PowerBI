@@ -48,3 +48,17 @@ DAX Measures
 Power BI Dashboard
       ↓
 Insights & Reporting
+
+## 📊 Dashboard Preview
+
+### Page 1 — Executive Overview
+
+![Executive Overview](screenshots/page1_executive_overview.png)
+
+### Page 2 — Ratings & Genre Analysis
+
+![Ratings & Genre Analysis](screenshots/page2_ratings_genre_analysis.png)
+
+### Page 3 — Movie Explorer & Details
+
+![Movie Explorer](screenshots/page3_movie_explorer_details.png)
