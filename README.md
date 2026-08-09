@@ -63,8 +63,128 @@ Insights & Reporting
 
 ### Page 2 — Ratings & Genre Analysis
 
-![Ratings & Genre Analysis](screenshots/page2_ratings_genre_analysis.png)
 
-### Page 3 — Movie Explorer & Details
+## 📊 Dashboard Pages
 
-![Movie Explorer](screenshots/page3_movie_explorer_details.png)
+### 1️⃣ Executive Overview
+
+Provides a high-level overview of the IMDb movie dataset.
+
+**KPIs:**
+- Total Movies
+- Average IMDb Rating
+- Highest Rated Movie
+- Average Runtime
+- Total Directors
+- Total Actors
+
+**Visuals:**
+- Top 10 Highest Rated Movies
+- Genre Distribution
+- Movies Released Per Year
+- Top 10 Directors
+- Top Movies Overview
+
+---
+
+### 2️⃣ Ratings & Genre Analysis
+
+Focuses on rating and genre-level analysis.
+
+**Visuals:**
+- Average Rating by Genre
+- Number of Movies by Genre
+- Vote Count by Genre
+- Runtime vs IMDb Rating
+- Top 10 Most Voted Movies
+- Top Directors by Average Rating
+
+---
+
+### 3️⃣ Movie Explorer & Details
+
+Provides detailed movie-level exploration.
+
+**Features:**
+- Movie selection
+- Movie details
+- Director
+- Genre
+- IMDb Rating
+- Runtime
+- Vote Count
+- Release Year
+- Story
+- Top Actors
+
+## 🗂️ Power BI Data Model
+
+The Power BI dashboard uses multiple tables and relationships to support interactive filtering and analysis.
+
+### Main Tables
+
+- Movies
+- MovieList
+- Genre
+
+The data model enables analysis across:
+
+- Movies
+- Genres
+- Ratings
+- Directors
+- Actors
+- Release Years
+- Runtime
+- Vote Counts
+
+## 💼 Skills Demonstrated
+
+### Data Collection
+- Web Scraping
+- Selenium Automation
+- BeautifulSoup HTML Parsing
+
+### Data Preparation
+- Data Cleaning
+- Missing Value Handling
+- Data Type Conversion
+- Feature Engineering
+- Data Transformation
+
+### Data Analysis
+- Exploratory Data Analysis
+- Descriptive Statistics
+- Trend Analysis
+- Correlation Analysis
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Power BI
+- KPI Development
+- Interactive Charts
+
+### Business Intelligence
+- Power BI Data Modeling
+- Relationships
+- Slicers
+- Filters
+- Interactive Dashboards
+- KPI Cards
+- Drill-down / Cross-filtering
+
+## 📈 Project Results
+
+The project transformed raw IMDb movie data into an interactive business intelligence dashboard.
+
+The final solution allows users to:
+
+- Identify the highest-rated Indian movies
+- Compare ratings across genres
+- Analyze movie release trends
+- Identify frequently appearing directors and actors
+- Compare runtime with IMDb ratings
+- Analyze movie popularity using vote counts
+- Explore individual movie details
+- Filter the dashboard interactively
